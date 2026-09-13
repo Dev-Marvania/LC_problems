@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev-Marvania/LC_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Dev-Marvania/LC_problems/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Dev-Marvania/LC_problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
