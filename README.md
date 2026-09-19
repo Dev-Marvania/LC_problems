@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dev-Marvania/LC_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/Dev-Marvania/LC_problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dev-Marvania/LC_problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dev-Marvania/LC_problems/tree/master/1406-stone-game-iii) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dev-Marvania/LC_problems/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dev-Marvania/LC_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
