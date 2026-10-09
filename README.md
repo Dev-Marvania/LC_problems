@@ -102,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev-Marvania/LC_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Dev-Marvania/LC_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev-Marvania/LC_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Dev-Marvania/LC_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev-Marvania/LC_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Dev-Marvania/LC_problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
